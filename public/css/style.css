@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?cs=srgb&dl=pexels-pixabay-209831.jpg&fm=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.xxx{
+    background-position:center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+  
+}
+
+.yyy{
+    padding-top: 15%;
+}
+
+.input{
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: poppins;
+    padding-left: 50px;
+   
+}
+
+.logo{
+    width: 64px;
+    height: 64px;
+}
